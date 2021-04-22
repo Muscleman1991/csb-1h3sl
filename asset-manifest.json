@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://muscleman1991.github.io/csb-1h3sl/static/css/main.dfd5b901.chunk.css",
+    "main.js": "https://muscleman1991.github.io/csb-1h3sl/static/js/main.9622bf18.chunk.js",
+    "main.js.map": "https://muscleman1991.github.io/csb-1h3sl/static/js/main.9622bf18.chunk.js.map",
+    "runtime-main.js": "https://muscleman1991.github.io/csb-1h3sl/static/js/runtime-main.dc06985a.js",
+    "runtime-main.js.map": "https://muscleman1991.github.io/csb-1h3sl/static/js/runtime-main.dc06985a.js.map",
+    "static/css/2.c1e28d34.chunk.css": "https://muscleman1991.github.io/csb-1h3sl/static/css/2.c1e28d34.chunk.css",
+    "static/js/2.f84e8774.chunk.js": "https://muscleman1991.github.io/csb-1h3sl/static/js/2.f84e8774.chunk.js",
+    "static/js/2.f84e8774.chunk.js.map": "https://muscleman1991.github.io/csb-1h3sl/static/js/2.f84e8774.chunk.js.map",
+    "static/js/3.5bf2152b.chunk.js": "https://muscleman1991.github.io/csb-1h3sl/static/js/3.5bf2152b.chunk.js",
+    "static/js/3.5bf2152b.chunk.js.map": "https://muscleman1991.github.io/csb-1h3sl/static/js/3.5bf2152b.chunk.js.map",
+    "index.html": "https://muscleman1991.github.io/csb-1h3sl/index.html",
+    "static/css/2.c1e28d34.chunk.css.map": "https://muscleman1991.github.io/csb-1h3sl/static/css/2.c1e28d34.chunk.css.map",
+    "static/css/main.dfd5b901.chunk.css.map": "https://muscleman1991.github.io/csb-1h3sl/static/css/main.dfd5b901.chunk.css.map",
+    "static/js/2.f84e8774.chunk.js.LICENSE.txt": "https://muscleman1991.github.io/csb-1h3sl/static/js/2.f84e8774.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc06985a.js",
+    "static/css/2.c1e28d34.chunk.css",
+    "static/js/2.f84e8774.chunk.js",
+    "static/css/main.dfd5b901.chunk.css",
+    "static/js/main.9622bf18.chunk.js"
+  ]
+}
